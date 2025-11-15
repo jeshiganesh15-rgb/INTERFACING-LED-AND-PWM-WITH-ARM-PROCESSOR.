@@ -53,11 +53,13 @@ Header:
  delay.h, gpio.h, pwm.h, stdulils.h
 
 # PIN DIAGRAM :
-<img width="978" height="456" alt="image" src="https://github.com/user-attachments/assets/8369a5e9-23cc-4620-a924-57cbc702e9be" />
+<img width="467" height="357" alt="image" src="https://github.com/user-attachments/assets/a4b9c256-9856-4a77-b604-913d842ac479" />
+
 
 
 # CIRCUIT DIAGRAM:
- <img width="455" height="351" alt="image" src="https://github.com/user-attachments/assets/447d17c4-b1c0-4d99-9cca-49841c49b763" />
+ <img width="1220" height="559" alt="image" src="https://github.com/user-attachments/assets/abdcef0e-9a11-49ea-9302-9c206ea49e58" />
+
 <img width="870" height="258" alt="image" src="https://github.com/user-attachments/assets/c11e14cc-fa35-42f8-88b8-ae84c3754de2" />
 
  
